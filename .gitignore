@@ -1,0 +1,11 @@
+# Reference material, not part of the site
+envelop_image.jpeg
+
+# Local tooling
+.claude/
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
