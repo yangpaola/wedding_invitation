@@ -28,8 +28,8 @@
 
   window.WEDDING_TEXT = {
     hr: {
-      pageTitle: 'Paola & Geonmo · Vjenčana večera',
-      eyebrow: 'Vjenčana večera',
+      pageTitle: 'Paola & Geonmo · Svadbena večera',
+      eyebrow: 'Svadbena večera',
       hint: 'Dodirnite omotnicu',
       back: 'Natrag na odabir jezika',
       brideLabel: 'Mladenka', bride: 'Paola',
@@ -45,7 +45,7 @@
       programTitle: 'Program večeri',
       program: [
         { time: '18:00', chip: GREEN, title: 'Piće dobrodošlice i zalogajčići' },
-        { time: 'Zatim', chip: PINK, title: 'Vjenčana večera i zabava' }
+        { time: 'Zatim', chip: PINK, title: 'Svadbena večera i zabava' }
       ],
       routesTitle: 'Kako doći',
       mapAlt: 'Karta: ruta od Zagreba autocestom A4 i ruta od Preloga preko Čakovca do Varaždina',
